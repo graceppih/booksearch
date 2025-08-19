@@ -1,4 +1,3 @@
-![Demo](assets/Buscador_de_Libros_en_Colores.png)
 
 # 📚 Buscador de Libros  
 
