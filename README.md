@@ -34,11 +34,16 @@ Perfecto para amantes de la lectura que desean **catalogar sus hallazgos digital
 ## 📂 Estructura del proyecto  
 
 src/main/java/com/literatura/booksearch/
+
 │
 ├── model/ # Entidad Book y atributos
+
 ├── service/ # Lógica de negocio y conexión con API
+
 ├── repository/ # CRUD con JPA
+
 └── BookSearchApplication.java # Punto de entrada con menú interactivo
+
 
 ---
 
