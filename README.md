@@ -1,4 +1,4 @@
-assets/Buscador de Libros en Colores.png
+
 
 # 📚 Buscador de Libros  
 
@@ -16,7 +16,7 @@ Perfecto para amantes de la lectura que desean **catalogar sus hallazgos digital
 - 🔢 **Conteo de libros**: Muestra cuántos libros has guardado.  
 - 🖥️ **Menú interactivo**: Navegación sencilla con opciones claras.  
 
-![Demo](assets/demo.gif)
+![Demo](assets/democm.gif)
 
 ---
 
