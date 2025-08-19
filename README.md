@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 # 📚 Buscador de Libros  
 
 ✨ Bienvenido al **Buscador de Libros** ✨  
@@ -13,6 +15,8 @@ Perfecto para amantes de la lectura que desean **catalogar sus hallazgos digital
 - ✍️ **Búsqueda por autor e idioma**: Filtra tus libros por autor o idioma.  
 - 🔢 **Conteo de libros**: Muestra cuántos libros has guardado.  
 - 🖥️ **Menú interactivo**: Navegación sencilla con opciones claras.  
+
+![Demo](assets/demo.gif)
 
 ---
 
