@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+assets/Buscador de Libros en Colores.png
 
 # 📚 Buscador de Libros  
 
