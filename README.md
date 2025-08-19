@@ -1,4 +1,4 @@
-
+![Demo](assets/Buscador de Libros en Colores.png)
 
 # 📚 Buscador de Libros  
 
@@ -15,8 +15,6 @@ Perfecto para amantes de la lectura que desean **catalogar sus hallazgos digital
 - ✍️ **Búsqueda por autor e idioma**: Filtra tus libros por autor o idioma.  
 - 🔢 **Conteo de libros**: Muestra cuántos libros has guardado.  
 - 🖥️ **Menú interactivo**: Navegación sencilla con opciones claras.  
-
-![Demo](assets/democm.gif)
 
 ---
 
@@ -57,10 +55,9 @@ src/main/java/com/literatura/booksearch/
 ---
 
 ## 🎬 Vista previa (GIF de prueba)  
+ 
 
-👉 Aquí va un **GIF demostrativo** de cómo funciona el programa:  
-
-![Demo del Buscador de Libros](ruta/del/gif.gif)  
+![Demo](assets/democm.gif)  
 
 ---
 
